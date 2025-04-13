@@ -9,9 +9,12 @@ Recently, I had a chance to analyze Bazaar, a B2B e-commerce platform. Using Pow
 
 This Power BI case study focuses on analyzing sales performance, product trends, and user behavior for **Bazaar**, an e-commerce platform. The visualizations provided offer valuable insights into sales growth, store performance, product behavior, and user acquisition strategies.
 
-## 📁 Files Included
-- **Bazaar Power BI Dashboard (.pbix)**
-- **Case Study Report (.docx)**
+## Case Study File
+
+You can download the **Bazaar Internship Case Study** Power BI file from the link below:
+
+- [Download Bazaar Internship Case Study (.pbix)](https://github.com/AbdulNafeSaad/Bazaar_Analytics_Case_Study/blob/main/Bazaar%20Internship%20Case%20Study%20Final%20Version.pbix)
+- [Download Case Study Report (.docx)](https://github.com/AbdulNafeSaad/Bazaar_Analytics_Case_Study/blob/main/Case%20Study%20Analytics%20Bazaar.docx)
 
 ## 🛠 Tools Used
 - **Power BI Desktop** for data visualization
