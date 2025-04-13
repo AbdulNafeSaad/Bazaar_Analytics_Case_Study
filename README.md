@@ -1,8 +1,8 @@
 # Bazaar_Analytics_Case_Study
 Recently, I had a chance to analyze Bazaar, a B2B e-commerce platform. Using Power BI, I explored sales trends, customer behavior, and operational KPIs to uncover insights and drive strategic growth decisions. Download the .pbix file to explore!
 ## 📁 Files Included
-- [Bazaar Power BI Dashboard (.pbix)](link-will-auto-appear)
-- [Case Study Report (.docx)](link-will-auto-appear)
+- [Bazaar Power BI Dashboard (.pbix)](https://github.com/AbdulNafeSaad/Bazaar_Analytics_Case_Study/blob/main/Bazaar_Power_BI_Dashboard.pbix)
+- [Case Study Report (.docx)](https://github.com/AbdulNafeSaad/Bazaar_Analytics_Case_Study/blob/main/Case_Study_Report.docx)
 
 
 # Bazaar Power BI Case Study
