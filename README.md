@@ -1,26 +1,30 @@
-# Bazaar_Analytics_Case_Study
+# Bazaar_Analytics_Case_Study:-
+
 Recently, I had a chance to analyze Bazaar, a B2B e-commerce platform. Using Power BI, I explored sales trends, customer behavior, and operational KPIs to uncover insights and drive strategic growth decisions. Download the .pbix file to explore!
-## 📁 Files Included
-- [Bazaar Power BI Dashboard (.pbix)](https://github.com/AbdulNafeSaad/Bazaar_Analytics_Case_Study/blob/main/Bazaar_Power_BI_Dashboard.pbix)
-- [Case Study Report (.docx)](https://github.com/AbdulNafeSaad/Bazaar_Analytics_Case_Study/blob/main/Case_Study_Report.docx)
 
+## Case Study Files:-
 
-# Bazaar Power BI Case Study
+You can download the following case study files:
+
+- [Bazaar Power BI Dashboard (.pbix)](https://github.com/AbdulNafeSaad/Bazaar_Analytics_Case_Study/blob/main/Bazaar%20Internship%20Case%20Study%20Final%20Version.pbix)
+- [Case Study Report (.docx)](https://github.com/AbdulNafeSaad/Bazaar_Analytics_Case_Study/blob/main/Case%20Study%20Analytics%20Bazaar.docx)
+
+# Bazaar Power BI Case Study:-
 
 This Power BI case study focuses on analyzing sales performance, product trends, and user behavior for **Bazaar**, an e-commerce platform. The visualizations provided offer valuable insights into sales growth, store performance, product behavior, and user acquisition strategies.
 
-## Case Study File
+## Case Study Files:-
 
 You can download the **Bazaar Internship Case Study** Power BI file from the link below:
 
 - [Download Bazaar Internship Case Study (.pbix)](https://github.com/AbdulNafeSaad/Bazaar_Analytics_Case_Study/blob/main/Bazaar%20Internship%20Case%20Study%20Final%20Version.pbix)
 - [Download Case Study Report (.docx)](https://github.com/AbdulNafeSaad/Bazaar_Analytics_Case_Study/blob/main/Case%20Study%20Analytics%20Bazaar.docx)
 
-## 🛠 Tools Used
+## 🛠 Tools Used:
 - **Power BI Desktop** for data visualization
 - **Power Query Editor** for data preparation and cleaning
 
-## 📊 Visualizations and Key Insights
+## 📊 Visualizations and Key Insights:-
 
 ### Page 1: **Sales Overview**
 - **Total Sales by Store ID** (Column Chart)  
@@ -86,7 +90,8 @@ You can download the **Bazaar Internship Case Study** Power BI file from the lin
 - **Earliest Signup & Order Dates** (Cards)  
   Displays October 1, 2024, as the earliest signup date and October 21, 2024, as the earliest first order date.
 
-## 📈 Key Takeaways
+## 📈 Key Takeaways:-
+
 - Significant sales peaks on January 20th and post-January 19th.
 - "Aashna Banaspati Ghee" is the top-performing product.
 - Forecasting shows steady growth in sales across the coming weeks.
