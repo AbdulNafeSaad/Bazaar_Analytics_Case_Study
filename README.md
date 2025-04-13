@@ -15,7 +15,7 @@ This Power BI case study focuses on analyzing sales performance, product trends,
 
 ## 🛠 Tools Used
 - **Power BI Desktop** for data visualization
-- **Excel** for data preparation and cleaning
+- **Power Query Editor** for data preparation and cleaning
 
 ## 📊 Visualizations and Key Insights
 
